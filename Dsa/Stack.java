@@ -64,7 +64,7 @@ public class Stack {
                     stack.peek();
                     break;
                 case 0:
-                    System.out.println("Exiting...");
+                    System.out.println("Exiting..");
                     sc.close();
                     return;
                 default:
