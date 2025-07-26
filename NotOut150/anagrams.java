@@ -1,3 +1,6 @@
+//wo strings are anagrams if they contain the same characters, just possibly in a different order. 
+//That means their character frequencies must be identical.
+
 package NotOut150;
 import java.util.*;
 public class anagrams {
