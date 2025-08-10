@@ -1,3 +1,7 @@
+/*
+Convert a given integer (from 1 to 3999) into its equivalent Roman numeral form.
+*/
+
 class IntToRoman {
     public String Solution(int num) {
         int[] values =    {1000, 900, 500, 400, 100, 90,  50, 40,  10, 9,   5, 4,  1};
